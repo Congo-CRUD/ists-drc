@@ -9,11 +9,6 @@ import Login from '../login/Login';
 
 
 
-
-
-
-
-
 export default function Hero(){
     console.log(window.innerHeight);
     
@@ -23,6 +18,7 @@ export default function Hero(){
             <img className='hero-bg' src={bg}/>
             <h2>BIENVENUE SUR LE SITE OFFICIEL DE L¡¯INSTITUT SUPERIEUR TECHNIQUE SONG-HWA</h2>
             <Login/>
+
         </div>
     )
 }
