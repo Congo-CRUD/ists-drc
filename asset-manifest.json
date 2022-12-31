@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Congo-CRUD.github.io/ists-drc/static/css/main.54b61416.css",
-    "main.js": "/Congo-CRUD.github.io/ists-drc/static/js/main.9a85bf4b.js",
-    "static/js/787.ed5d0751.chunk.js": "/Congo-CRUD.github.io/ists-drc/static/js/787.ed5d0751.chunk.js",
-    "static/media/ists.png": "/Congo-CRUD.github.io/ists-drc/static/media/ists.202cdb7c5f125ef8b365.png",
-    "static/media/logo.svg": "/Congo-CRUD.github.io/ists-drc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Congo-CRUD.github.io/ists-drc/index.html",
-    "main.54b61416.css.map": "/Congo-CRUD.github.io/ists-drc/static/css/main.54b61416.css.map",
-    "main.9a85bf4b.js.map": "/Congo-CRUD.github.io/ists-drc/static/js/main.9a85bf4b.js.map",
-    "787.ed5d0751.chunk.js.map": "/Congo-CRUD.github.io/ists-drc/static/js/787.ed5d0751.chunk.js.map"
+    "main.css": "/ists-drc/static/css/main.54b61416.css",
+    "main.js": "/ists-drc/static/js/main.532b50f4.js",
+    "static/js/787.ed5d0751.chunk.js": "/ists-drc/static/js/787.ed5d0751.chunk.js",
+    "static/media/ists.png": "/ists-drc/static/media/ists.202cdb7c5f125ef8b365.png",
+    "static/media/logo.svg": "/ists-drc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ists-drc/index.html",
+    "main.54b61416.css.map": "/ists-drc/static/css/main.54b61416.css.map",
+    "main.532b50f4.js.map": "/ists-drc/static/js/main.532b50f4.js.map",
+    "787.ed5d0751.chunk.js.map": "/ists-drc/static/js/787.ed5d0751.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.54b61416.css",
-    "static/js/main.9a85bf4b.js"
+    "static/js/main.532b50f4.js"
   ]
 }
