@@ -6,14 +6,16 @@ import React, { useState } from 'react'
 function MiniNavBar(){
     return(
         <nav className='mini-nav'>
-            HI
+            Mini nav bar
         </nav>
     )
 }
 
 function BigNavBar(){
     return(
-    <nav className='nav'></nav>
+    <nav className='nav'>
+        ?
+    </nav>
         
     )
 }
