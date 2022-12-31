@@ -12,5 +12,6 @@
 .about-img{
     width:100%;
     background-color: #D9D9D9;
-    height: 200px
+    height: 200px;
+    border-radius: 5px;
 }
