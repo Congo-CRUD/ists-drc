@@ -20,12 +20,15 @@
 .announce-content p{
     margin: 10px auto;
 }
-.announce-content a{
+.announce-content-a{
     margin-top: 5px;
     color: var(--primaryColor);
     font-weight: 800;
 }
 
+.announce-content-a:hover{
+    cursor: pointer;
+}
 .announce-date{
     position: absolute;
     margin:0px;
