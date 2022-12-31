@@ -1,0 +1,35 @@
+footer{
+    background-color: var(--primaryColor);
+    color: white;
+    font-style: normal;
+    padding: 20px;
+
+}
+.social{
+    display: flex;
+    width: 70%;
+    justify-content: center;
+    align-items: center;
+    margin: 0px auto;
+    gap: 30px;
+    padding:0px;
+    
+}
+.social p{
+    margin:0px;
+}
+.footer-copyright{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap:0px;
+}
+
+.footer-copyright p{
+    margin: 0px;
+    padding: 0px;
+    font-size: 12px;
+    font-weight: 200;
+}

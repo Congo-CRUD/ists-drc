@@ -24,6 +24,7 @@ function MiniNavBar(){
     }
     return(
         <nav className='mini-nav'>
+
             {navIsOpen && <OpenMiniNavBar/>}
             <div className='logo-ists'>LOGO ISTS</div>
             <i onClick={openNav} class={navIsOpen ? "fa-solid fa-xmark fa-xl" :"fa-solid fa-bars fa-xl"}></i>
@@ -33,7 +34,10 @@ function MiniNavBar(){
 
 function BigNavBar(){
     return(
+
     <nav className='nav'>Big</nav>
+
+
         
     )
 }
