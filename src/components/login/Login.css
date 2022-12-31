@@ -1,9 +1,11 @@
 .login-container{
+    margin: auto;
     margin-top: 50px;
     z-index: 2;
     display: flex;
     flex-direction: column;
     gap: 20px;
+    width: 70%;
     box-sizing: border-box;
 }
 

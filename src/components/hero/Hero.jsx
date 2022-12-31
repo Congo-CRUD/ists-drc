@@ -14,10 +14,10 @@ export default function Hero(){
     
 
     return(
-        <div className='hero-container' style={{height: window.outerHeight - 100}}>
+        <div className='hero-container'>
             <img className='hero-bg' src={bg}/>
-            <h2>BIENVENUE SUR LE SITE OFFICIEL DE L¡¯INSTITUT SUPERIEUR TECHNIQUE SONG-HWA</h2>
-            <Login/>
+            <h2>BIENVENUE SUR LE SITE OFFICIEL DE L'INSTITUT SUPERIEUR TECHNIQUE SONG-HWA</h2>
+            
 
         </div>
     )

@@ -4,5 +4,15 @@
 }
 .App {
   text-align: center;
+  
 }
 
+
+.whatsApp-button{
+  opacity: 0.5;
+
+}
+
+.whatsApp-button:hover{
+  opacity: 1;
+}

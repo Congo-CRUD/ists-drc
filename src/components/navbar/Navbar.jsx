@@ -1,6 +1,7 @@
 import './Navbar.css'
 import { windowSize } from '../../utils'
 import React, { useState } from 'react'
+import Login from '../login/Login';
 
 
 function OpenMiniNavBar(){
@@ -12,6 +13,7 @@ function OpenMiniNavBar(){
                 <li><a>Sections Organisées</a></li>
                 <li><a>Contact</a></li>
             </ul>
+            <Login/>
         </div>
     )
 }

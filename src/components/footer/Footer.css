@@ -5,6 +5,19 @@ footer{
     padding: 20px;
 
 }
+
+footer h2{
+    margin-bottom:10px;
+}
+
+.footer-contact{
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.footer-contact p{
+margin:0px;
+}
 .social{
     display: flex;
     width: 70%;
@@ -17,6 +30,9 @@ footer{
 }
 .social p{
     margin:0px;
+    background-color: white;
+    border-radius: 100%;
+    padding: 5px 10px;
 }
 .footer-copyright{
     

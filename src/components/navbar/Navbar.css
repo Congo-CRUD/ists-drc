@@ -8,6 +8,8 @@
 }
 
 .mini-nav{
+    position: fixed;
+    z-index: 2;
     color: white;
     background-color: var(--primaryColor);
     height: 60px;
@@ -22,8 +24,8 @@
 .logo-ists{
     height:80%;
     width:70px;
-    background-color: yellow;
-    color: black
+    background-color: var(--secondaryColor);
+    color: white;
 
 }
 
@@ -37,6 +39,8 @@
     display: flex;
     padding: 0;
     box-sizing: border-box;
+    flex-direction: column;
+    z-index: 2;
 }
 
 .mini-nav i:hover{
