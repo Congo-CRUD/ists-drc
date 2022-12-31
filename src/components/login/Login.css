@@ -1,0 +1,39 @@
+.login-container{
+    margin-top: 50px;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    box-sizing: border-box;
+}
+
+
+
+button{
+    all:unset;
+    padding: 5px 10px;
+    font-weight: 700;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+button p{
+    padding: 0;
+    margin: 0;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.login-connexion{
+    border: 3px solid white;
+}
+
+.login-inscription{
+    background: white;
+    color: var(--primaryColor);
+
+}
